@@ -27,6 +27,9 @@
 #header1-1o H1 {
   color: #f1c050;
 }
+#header3-1w H3 {
+  color: #d9534f;
+}
 
 #dropdown-menu-4 .hide-buttons [data-button] {
   display: none !important;
