@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-05-23_0858",
-    "currentPage": "index.html",
+    "currentPage": "Gallery.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -623,6 +623,20 @@
                 "thumb": "@PROJECT_PATH@/assets/images/photo-13-small.jpg",
                 "alt": "",
                 "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190427-wa0124-768x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190427-wa0124-768x1024-768x1024.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190427-wa0229-1024x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190427-wa0229-1024x768-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
               }
             ]
           },
