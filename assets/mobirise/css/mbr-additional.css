@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 
+
 #dropdown-menu-3 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -24,12 +25,17 @@
 #dropdown-menu-3 .navbar-toggler {
   color: #000000;
 }
+#dropdown-menu-3 .btn {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
 #header1-1o H1 {
   color: #f1c050;
 }
 #header3-1w H3 {
   color: #d9534f;
 }
+
 
 #dropdown-menu-m .hide-buttons [data-button] {
   display: none !important;
@@ -55,6 +61,11 @@
 #dropdown-menu-m .navbar-toggler {
   color: #000000;
 }
+#dropdown-menu-m .btn {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
+
 
 #dropdown-menu-1j .hide-buttons [data-button] {
   display: none !important;
@@ -80,6 +91,11 @@
 #dropdown-menu-1j .navbar-toggler {
   color: #000000;
 }
+#dropdown-menu-1j .btn {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
+
 
 #dropdown-menu-e .hide-buttons [data-button] {
   display: none !important;
@@ -105,6 +121,11 @@
 #dropdown-menu-e .navbar-toggler {
   color: #000000;
 }
+#dropdown-menu-e .btn {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
+
 
 #dropdown-menu-1d .hide-buttons [data-button] {
   display: none !important;
@@ -130,6 +151,11 @@
 #dropdown-menu-1d .navbar-toggler {
   color: #000000;
 }
+#dropdown-menu-1d .btn {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
+
 
 #dropdown-menu-17 .hide-buttons [data-button] {
   display: none !important;
@@ -155,6 +181,11 @@
 #dropdown-menu-17 .navbar-toggler {
   color: #000000;
 }
+#dropdown-menu-17 .btn {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
+
 
 #dropdown-menu-11 .hide-buttons [data-button] {
   display: none !important;
@@ -180,6 +211,11 @@
 #dropdown-menu-11 .navbar-toggler {
   color: #000000;
 }
+#dropdown-menu-11 .btn {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
+
 
 #dropdown-menu-u .hide-buttons [data-button] {
   display: none !important;
@@ -204,4 +240,8 @@
 }
 #dropdown-menu-u .navbar-toggler {
   color: #000000;
+}
+#dropdown-menu-u .btn {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
 }
