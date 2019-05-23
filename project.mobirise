@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-05-23_0858",
-    "currentPage": "index.html",
+    "currentPage": "Asia.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -134,7 +134,12 @@
           "_anchor": "header3-1w",
           "_styles": {
             "H3": {
-              "color": "#d9534f"
+              "color": "#d9534f",
+              "text-align": "center"
+            },
+            "I": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             }
           }
         },
@@ -1242,14 +1247,22 @@
           "_params": {
             "showMeta": true
           },
-          "title": "Drop-Dead Easy Website Maker",
+          "title": "Travel when you can, stop sitting and wishing&nbsp;",
           "meta": "By John Smith posted July 30, 2015",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-18"
+          "_anchor": "header3-18",
+          "_styles": {
+            "H3": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "color": "#000000",
+              "text-align": "left"
+            }
+          }
         },
         {
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
