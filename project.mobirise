@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-05-23_0858",
-    "currentPage": "Asia.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -13,9 +13,7 @@
     "siteFonts": [],
     "uniqCompNum": 71,
     "versionPublish": "4.10.1",
-    "screenshot": "screenshot.png",
-    "publishType": "local",
-    "publishPath": "file:///C:/Users/Q/Documents/TakeOFF"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -140,8 +138,12 @@
               "text-align": "center"
             },
             "I": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "B": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             }
           }
         },

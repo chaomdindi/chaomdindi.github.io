@@ -1,4 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+
+
+
 
 #dropdown-menu-3 .hide-buttons [data-button] {
   display: none !important;
@@ -24,62 +29,24 @@
 #dropdown-menu-3 .navbar-toggler {
   color: #000000;
 }
+#dropdown-menu-3 .btn {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
 #header1-1o H1 {
   color: #f1c050;
 }
 #header3-1w H3 {
   color: #d9534f;
+  text-align: center;
+}
+#header3-1w I {
+  font-family: 'Open Sans', sans-serif;
+}
+#header3-1w B {
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 
-#dropdown-menu-4 .hide-buttons [data-button] {
-  display: none !important;
-}
-#dropdown-menu-4 .navbar-brand a {
-  font-family: 'Indie Flower', cursive;
-  font-size: 72px;
-}
-#dropdown-menu-4 .nav .link,
-#dropdown-menu-4 .dropdown-item {
-  font-size: 1em;
-  color: #000000;
-}
-#dropdown-menu-4 .navbar,
-#dropdown-menu-4 .dropdown-menu {
-  background: #ffffff;
-}
-#dropdown-menu-4 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-4 .dropdown-menu a:hover,
-#dropdown-menu-4 .dropdown-menu a:focus {
-  background: #f5f5f5;
-}
-#dropdown-menu-4 .navbar-toggler {
-  color: #000000;
-}
-
-#dropdown-menu-e .hide-buttons [data-button] {
-  display: none !important;
-}
-#dropdown-menu-e .navbar-brand a {
-  font-family: 'Indie Flower', cursive;
-  font-size: 72px;
-}
-#dropdown-menu-e .nav .link,
-#dropdown-menu-e .dropdown-item {
-  font-size: 1em;
-  color: #000000;
-}
-#dropdown-menu-e .navbar,
-#dropdown-menu-e .dropdown-menu {
-  background: #ffffff;
-}
-#dropdown-menu-e .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-e .dropdown-menu a:hover,
-#dropdown-menu-e .dropdown-menu a:focus {
-  background: #f5f5f5;
-}
-#dropdown-menu-e .navbar-toggler {
-  color: #000000;
-}
 
 #dropdown-menu-m .hide-buttons [data-button] {
   display: none !important;
@@ -105,81 +72,71 @@
 #dropdown-menu-m .navbar-toggler {
   color: #000000;
 }
+#dropdown-menu-m .btn {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
 
-#dropdown-menu-u .hide-buttons [data-button] {
+
+#dropdown-menu-1j .hide-buttons [data-button] {
   display: none !important;
 }
-#dropdown-menu-u .navbar-brand a {
+#dropdown-menu-1j .navbar-brand a {
   font-family: 'Indie Flower', cursive;
   font-size: 72px;
 }
-#dropdown-menu-u .nav .link,
-#dropdown-menu-u .dropdown-item {
+#dropdown-menu-1j .nav .link,
+#dropdown-menu-1j .dropdown-item {
   font-size: 1em;
   color: #000000;
 }
-#dropdown-menu-u .navbar,
-#dropdown-menu-u .dropdown-menu {
+#dropdown-menu-1j .navbar,
+#dropdown-menu-1j .dropdown-menu {
   background: #ffffff;
 }
-#dropdown-menu-u .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-u .dropdown-menu a:hover,
-#dropdown-menu-u .dropdown-menu a:focus {
+#dropdown-menu-1j .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1j .dropdown-menu a:hover,
+#dropdown-menu-1j .dropdown-menu a:focus {
   background: #f5f5f5;
 }
-#dropdown-menu-u .navbar-toggler {
+#dropdown-menu-1j .navbar-toggler {
   color: #000000;
 }
+#dropdown-menu-1j .btn {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
 
-#dropdown-menu-11 .hide-buttons [data-button] {
+
+#dropdown-menu-e .hide-buttons [data-button] {
   display: none !important;
 }
-#dropdown-menu-11 .navbar-brand a {
+#dropdown-menu-e .navbar-brand a {
   font-family: 'Indie Flower', cursive;
   font-size: 72px;
 }
-#dropdown-menu-11 .nav .link,
-#dropdown-menu-11 .dropdown-item {
+#dropdown-menu-e .nav .link,
+#dropdown-menu-e .dropdown-item {
   font-size: 1em;
   color: #000000;
 }
-#dropdown-menu-11 .navbar,
-#dropdown-menu-11 .dropdown-menu {
+#dropdown-menu-e .navbar,
+#dropdown-menu-e .dropdown-menu {
   background: #ffffff;
 }
-#dropdown-menu-11 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-11 .dropdown-menu a:hover,
-#dropdown-menu-11 .dropdown-menu a:focus {
+#dropdown-menu-e .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-e .dropdown-menu a:hover,
+#dropdown-menu-e .dropdown-menu a:focus {
   background: #f5f5f5;
 }
-#dropdown-menu-11 .navbar-toggler {
+#dropdown-menu-e .navbar-toggler {
   color: #000000;
+}
+#dropdown-menu-e .btn {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
 }
 
-#dropdown-menu-17 .hide-buttons [data-button] {
-  display: none !important;
-}
-#dropdown-menu-17 .navbar-brand a {
-  font-family: 'Indie Flower', cursive;
-  font-size: 72px;
-}
-#dropdown-menu-17 .nav .link,
-#dropdown-menu-17 .dropdown-item {
-  font-size: 1em;
-  color: #000000;
-}
-#dropdown-menu-17 .navbar,
-#dropdown-menu-17 .dropdown-menu {
-  background: #ffffff;
-}
-#dropdown-menu-17 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-17 .dropdown-menu a:hover,
-#dropdown-menu-17 .dropdown-menu a:focus {
-  background: #f5f5f5;
-}
-#dropdown-menu-17 .navbar-toggler {
-  color: #000000;
-}
 
 #dropdown-menu-1d .hide-buttons [data-button] {
   display: none !important;
@@ -205,28 +162,103 @@
 #dropdown-menu-1d .navbar-toggler {
   color: #000000;
 }
+#dropdown-menu-1d .btn {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
 
-#dropdown-menu-1j .hide-buttons [data-button] {
+
+
+#dropdown-menu-17 .hide-buttons [data-button] {
   display: none !important;
 }
-#dropdown-menu-1j .navbar-brand a {
+#dropdown-menu-17 .navbar-brand a {
   font-family: 'Indie Flower', cursive;
   font-size: 72px;
 }
-#dropdown-menu-1j .nav .link,
-#dropdown-menu-1j .dropdown-item {
+#dropdown-menu-17 .nav .link,
+#dropdown-menu-17 .dropdown-item {
   font-size: 1em;
   color: #000000;
 }
-#dropdown-menu-1j .navbar,
-#dropdown-menu-1j .dropdown-menu {
+#dropdown-menu-17 .navbar,
+#dropdown-menu-17 .dropdown-menu {
   background: #ffffff;
 }
-#dropdown-menu-1j .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-1j .dropdown-menu a:hover,
-#dropdown-menu-1j .dropdown-menu a:focus {
+#dropdown-menu-17 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-17 .dropdown-menu a:hover,
+#dropdown-menu-17 .dropdown-menu a:focus {
   background: #f5f5f5;
 }
-#dropdown-menu-1j .navbar-toggler {
+#dropdown-menu-17 .navbar-toggler {
   color: #000000;
+}
+#dropdown-menu-17 .btn {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
+#header3-18 H3 {
+  font-family: 'Indie Flower', cursive;
+  color: #000000;
+  text-align: left;
+}
+
+
+#dropdown-menu-11 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-11 .navbar-brand a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 72px;
+}
+#dropdown-menu-11 .nav .link,
+#dropdown-menu-11 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-11 .navbar,
+#dropdown-menu-11 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-11 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-11 .dropdown-menu a:hover,
+#dropdown-menu-11 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-11 .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-11 .btn {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
+
+
+#dropdown-menu-u .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-u .navbar-brand a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 72px;
+}
+#dropdown-menu-u .nav .link,
+#dropdown-menu-u .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-u .navbar,
+#dropdown-menu-u .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-u .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-u .dropdown-menu a:hover,
+#dropdown-menu-u .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-u .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-u .btn {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
 }
