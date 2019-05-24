@@ -150,11 +150,12 @@
           "_styles": {
             "H3": {
               "color": "#d9534f",
-              "text-align": "center"
+              "text-align": "left"
             },
             "I": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "36px"
             },
             "B": {
               "font-family": "'Open Sans Condensed', sans-serif",
