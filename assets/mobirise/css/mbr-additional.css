@@ -303,3 +303,34 @@
 #dropdown-menu-1x A {
   font-family: 'Indie Flower', cursive;
 }
+
+
+
+#dropdown-menu-23 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-23 .navbar-brand a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 46px;
+}
+#dropdown-menu-23 .nav .link,
+#dropdown-menu-23 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+  font-family: 'Indie Flower', cursive;
+}
+#dropdown-menu-23 .navbar,
+#dropdown-menu-23 .dropdown-menu {
+  background: #5bc0de;
+}
+#dropdown-menu-23 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-23 .dropdown-menu a:hover,
+#dropdown-menu-23 .dropdown-menu a:focus {
+  background: #4ab9db;
+}
+#dropdown-menu-23 .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-23 A {
+  font-family: 'Indie Flower', cursive;
+}
