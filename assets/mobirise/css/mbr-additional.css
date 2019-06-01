@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 
 
+
 #dropdown-menu-3 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -12,6 +13,7 @@
 #dropdown-menu-3 .dropdown-item {
   font-size: 1em;
   color: #000000;
+  font-family: 'Indie Flower', cursive;
 }
 #dropdown-menu-3 .navbar,
 #dropdown-menu-3 .dropdown-menu {
@@ -236,6 +238,7 @@
 }
 
 
+
 #dropdown-menu-1j .hide-buttons [data-button] {
   display: none !important;
 }
@@ -247,6 +250,7 @@
 #dropdown-menu-1j .dropdown-item {
   font-size: 1em;
   color: #000000;
+  font-family: 'Indie Flower', cursive;
 }
 #dropdown-menu-1j .navbar,
 #dropdown-menu-1j .dropdown-menu {
