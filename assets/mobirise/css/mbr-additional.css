@@ -64,6 +64,7 @@
 }
 
 
+
 #dropdown-menu-e .hide-buttons [data-button] {
   display: none !important;
 }
@@ -75,6 +76,7 @@
 #dropdown-menu-e .dropdown-item {
   font-size: 1em;
   color: #000000;
+  font-family: 'Indie Flower', cursive;
 }
 #dropdown-menu-e .navbar,
 #dropdown-menu-e .dropdown-menu {

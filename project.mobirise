@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-05-23_0858",
-    "currentPage": "Gallery.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -371,7 +371,9 @@
             },
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
-              "color": "#000000"
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-family": "'Indie Flower', cursive"
             },
             ".navbar, .dropdown-menu": {
               "background": "#5bc0de"
@@ -427,7 +429,7 @@
             "showMeta": true
           },
           "title": "Let's take off to a world full of Destinations",
-          "meta": "By John Smith posted July 30, 2015",
+          "meta": "Kate Chao",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -436,7 +438,7 @@
           "_anchor": "header3-f"
         },
         {
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text": "Travelling should'nt be seen as a cost but rather, an opportunity to explore the God-given gems that were given to us as a birth right. Who wants to live in a world where all you have between you and your sanity is you job and the TV infront of you? the world is full of sceneries which can brighten up our minds back to life, so the next time you think about trabelling, just go ahead and \"do it!\"",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -445,103 +447,29 @@
           "_anchor": "content1-g"
         },
         {
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-j"
-        },
-        {
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-k"
-        },
-        {
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-l"
-        },
-        {
           "_params": {
             "showText": true
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/photo-13.jpg",
-              "width": 1400
+              "src": "@PROJECT_PATH@/assets/images/ras-al-k-958x1280.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "If you cant travel then let me!",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "image2",
           "_anchor": "image2-h"
-        },
-        {
-          "_inherit": "slider",
-          "_afterNavbarItem": ".mbr-slider",
-          "_params": {
-            "autoplay": true,
-            "showBullets": true,
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-6.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": false,
-                "showTitle": true,
-                "title": "Slide 1",
-                "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-9.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": false,
-                "showTitle": true,
-                "title": "Slide 2",
-                "contentAlign": "left",
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-10.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": false,
-                "showTitle": true,
-                "title": "Slide 3",
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
-              }
-            ]
-          },
-          "articleLayout": true,
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider2",
-          "_anchor": "slider2-i"
         }
       ]
     },
