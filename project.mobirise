@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-05-23_0858",
-    "currentPage": "page9.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -463,13 +463,18 @@
               "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "If you cant travel then let me!",
+          "text": "If you cant travel, let me keep on!",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-h"
+          "_anchor": "image2-h",
+          "_styles": {
+            "DIV": {
+              "color": "#0275d8"
+            }
+          }
         }
       ]
     },
