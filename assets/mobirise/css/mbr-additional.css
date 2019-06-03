@@ -75,6 +75,9 @@
 
 
 
+
+
+
 #dropdown-menu-e .hide-buttons [data-button] {
   display: none !important;
 }
@@ -103,8 +106,17 @@
 #dropdown-menu-e A {
   font-family: 'Indie Flower', cursive;
 }
+#header3-f H3 {
+  font-family: 'Indie Flower', cursive;
+  color: #5bc0de;
+}
+#header3-f SMALL {
+  font-family: 'Indie Flower', cursive;
+}
 #image2-h DIV {
   color: #0275d8;
+  font-size: 36px;
+  font-family: 'Indie Flower', cursive;
 }
 
 

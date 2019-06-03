@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-05-23_0858",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -472,7 +472,18 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-f"
+          "_anchor": "header3-f",
+          "_styles": {
+            "H3": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "color": "#5bc0de"
+            },
+            "SMALL": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          }
         },
         {
           "text": "Travelling should'nt be seen as a cost but rather, an opportunity to explore the God-given gems that were given to us as a birth right. Who wants to live in a world where all you have between you and your sanity is you job and the TV infront of you? the world is full of sceneries which can brighten up our minds back to life, so the next time you think about trabelling, just go ahead and \"do it!\"",
@@ -490,7 +501,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ras-al-k-958x1280.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20180930-142356-1400x1867.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -509,7 +520,10 @@
           "_anchor": "image2-h",
           "_styles": {
             "DIV": {
-              "color": "#0275d8"
+              "color": "#0275d8",
+              "font-size": "36px",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             }
           }
         }
