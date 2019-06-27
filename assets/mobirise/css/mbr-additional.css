@@ -1,4 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 
 
 
@@ -11,7 +13,7 @@
 }
 #dropdown-menu-3 .nav .link,
 #dropdown-menu-3 .dropdown-item {
-  font-size: 1em;
+  font-size: 0.8em;
   color: #000000;
   font-family: 'Indie Flower', cursive;
 }
@@ -75,7 +77,7 @@
 }
 #dropdown-menu-e .nav .link,
 #dropdown-menu-e .dropdown-item {
-  font-size: 1em;
+  font-size: 0.8em;
   color: #000000;
   font-family: 'Indie Flower', cursive;
 }
@@ -111,7 +113,7 @@
 }
 #dropdown-menu-u .nav .link,
 #dropdown-menu-u .dropdown-item {
-  font-size: 1em;
+  font-size: 0.8em;
   color: #000000;
   font-family: 'Indie Flower', cursive;
 }
@@ -142,7 +144,7 @@
 }
 #dropdown-menu-11 .nav .link,
 #dropdown-menu-11 .dropdown-item {
-  font-size: 1em;
+  font-size: 0.8em;
   color: #000000;
   font-family: 'Indie Flower', cursive;
 }
@@ -204,7 +206,7 @@
 }
 #dropdown-menu-1d .nav .link,
 #dropdown-menu-1d .dropdown-item {
-  font-size: 1em;
+  font-size: 0.8em;
   color: #000000;
   font-family: 'Indie Flower', cursive;
 }
@@ -226,6 +228,8 @@
 
 
 
+
+
 #dropdown-menu-m .hide-buttons [data-button] {
   display: none !important;
 }
@@ -235,7 +239,7 @@
 }
 #dropdown-menu-m .nav .link,
 #dropdown-menu-m .dropdown-item {
-  font-size: 1em;
+  font-size: 0.8em;
   color: #000000;
   font-family: 'Indie Flower', cursive;
 }
@@ -254,6 +258,12 @@
 #dropdown-menu-m A {
   font-family: 'Indie Flower', cursive;
 }
+#header3-o I {
+  font-family: 'Droid Sans', sans-serif;
+}
+#content1-p P {
+  font-family: 'Open Sans', sans-serif;
+}
 
 
 
@@ -266,7 +276,7 @@
 }
 #dropdown-menu-1j .nav .link,
 #dropdown-menu-1j .dropdown-item {
-  font-size: 1em;
+  font-size: 0.8em;
   color: #000000;
   font-family: 'Indie Flower', cursive;
 }
@@ -297,7 +307,7 @@
 }
 #dropdown-menu-1x .nav .link,
 #dropdown-menu-1x .dropdown-item {
-  font-size: 1em;
+  font-size: 0.8em;
   color: #000000;
   font-family: 'Indie Flower', cursive;
 }
@@ -328,7 +338,7 @@
 }
 #dropdown-menu-23 .nav .link,
 #dropdown-menu-23 .dropdown-item {
-  font-size: 1em;
+  font-size: 0.8em;
   color: #000000;
   font-family: 'Indie Flower', cursive;
 }
@@ -359,7 +369,7 @@
 }
 #dropdown-menu-29 .nav .link,
 #dropdown-menu-29 .dropdown-item {
-  font-size: 1em;
+  font-size: 0.8em;
   color: #000000;
   font-family: 'Indie Flower', cursive;
 }
@@ -390,7 +400,7 @@
 }
 #dropdown-menu-2g .nav .link,
 #dropdown-menu-2g .dropdown-item {
-  font-size: 1em;
+  font-size: 0.8em;
   color: #000000;
   font-family: 'Indie Flower', cursive;
 }
